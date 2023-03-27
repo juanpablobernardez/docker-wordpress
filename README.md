@@ -20,12 +20,12 @@ Development Environment for Wordpress
 
 1. Clone project:
   ```sh
-     https://github.com/juanpablobernardez/docker-wordpress
+     git clone https://github.com/juanpablobernardez/docker-wordpress
   ```
 
 2. Init services:
   ```sh
-    docker-compose up -d 
+    docker compose up -d 
   ```
 3. Access to home page in the browser: http://localhost and follow the instructions to configure wordpress.
 
